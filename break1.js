@@ -1,8 +1,8 @@
 // 1. Write a loop 1 to 200. Use break to exit the loop once you find 100.
 
-for(let i=1; i <=200; i++){
-    if (i==100){
+for(let number=1; number <=200; number++){
+    if (number==100){
         break;
     }
-    console.log(i)
+    console.log(number)
 }
